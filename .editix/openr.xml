@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<root>
+ <model id="openr">
+  <item id="openr-0">
+   <ui action="com.japisoft.editix.action.file.OpenAction" label="C:\Users\Rajyalakshmi Lekkala\myProject\program1.html" param="C:\Users\Rajyalakshmi Lekkala\myProject\program1.html" param2="XML" param3="AUTOMATIC" param4="encoding=AUTOMATIC;lastView=Source" icon="images/star_blue.png"/>
+  </item>
+
+ </model>
+
+</root>
